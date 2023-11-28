@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\laboratornaya_rabota_1_golubentsev_variant_2\obj\Debug\laboratornaya_rabota_1_golubentsev_variant_2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\laboratornaya_rabota_1_golubentsev_variant_2\obj\Debug\laboratornaya_rabota_1_golubentsev_variant_2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\laboratornaya_rabota_1_golubentsev_variant_2\bin\Debug\laboratornaya_rabota_1_golubentsev_variant_2.exe.config
+C:\Users\user\source\repos\laboratornaya_rabota_1_golubentsev_variant_2\bin\Debug\laboratornaya_rabota_1_golubentsev_variant_2.exe
+C:\Users\user\source\repos\laboratornaya_rabota_1_golubentsev_variant_2\bin\Debug\laboratornaya_rabota_1_golubentsev_variant_2.pdb
+C:\Users\user\source\repos\laboratornaya_rabota_1_golubentsev_variant_2\obj\Debug\laboratornaya_rabota_1_golubentsev_variant_2.exe
+C:\Users\user\source\repos\laboratornaya_rabota_1_golubentsev_variant_2\obj\Debug\laboratornaya_rabota_1_golubentsev_variant_2.pdb
