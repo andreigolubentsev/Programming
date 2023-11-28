@@ -1,2 +1,0 @@
-C:\Users\student\Desktop\laboratornaya rabota 1\obj\Debug\laboratornaya rabota 1.csproj.AssemblyReference.cache
-C:\Users\student\Desktop\laboratornaya rabota 1\obj\Debug\laboratornaya rabota 1.csproj.CoreCompileInputs.cache
